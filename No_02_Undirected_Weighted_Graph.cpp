@@ -21,8 +21,9 @@ int main() {
     vector<vector<int>> mat(V, vector<int>(V, 0));
     
     addEdge(mat, 0, 1, 4);
-    addEdge(mat, 0, 2, 9);
+    addEdge(mat, 0, 5, 6);
     addEdge(mat, 1, 2, 8);
+    addEdge(mat, 1, 4, 9);
     addEdge(mat, 2, 3, 6);
     addEdge(mat, 3, 4, 7);
     addEdge(mat, 4, 5, 5);
