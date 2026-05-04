@@ -1,24 +1,34 @@
 #include <iostream>
 #include <vector>
+#include <iomanip>
+
 using namespace std;
+
+const int INF = 999;
 
 void addEdge(vector<vector<int>>& mat, int i, int j, int weight) {
     mat[i][j] = weight;
     mat[j][i] = weight;
 }
 
-void displayMatrix(vector<vector<int>>& mat) {
+void displayMatrix(const vector<vector<int>>& mat) {
     int V = mat.size();
     for (int i = 0; i < V; i++) {
-        for (int j = 0; j < V; j++)
-            cout << mat[i][j] << " ";
+        for (int j = 0; j < V; j++) {
+            cout << setw(4) << mat[i][j] << " ";
+        }
         cout << endl;
     }
 }
 
 int main() {
     int V = 6;
-    vector<vector<int>> mat(V, vector<int>(V, 0));
+    
+    vector<vector<int>> mat(V, vector<int>(V, INF));
+
+    for (int i = 0; i < V; i++) {
+        mat[i][i] = 0;
+    }
     
     addEdge(mat, 0, 1, 4);
     addEdge(mat, 0, 5, 6);
@@ -30,5 +40,6 @@ int main() {
     
     cout << "Adjacency Matrix for Undirected Weighted Graph:\n";
     displayMatrix(mat);
+
     return 0;
 }
