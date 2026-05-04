@@ -54,7 +54,7 @@ Kami mengimplementasikan 4 jenis graph menggunakan linked list:
 
 ## 📊 Visualisasi
 
-![Visualization]([https://app.diagrams.net/#G1-_-DWsfYKuxOGiLLzMCSVf1b1aJXXubs#%7B%22pageId%22%3A%22MrtCiePADvKMJUvnaoBr%22%7D](https://app.diagrams.net/#G1-_-DWsfYKuxOGiLLzMCSVf1b1aJXXubs#%7B%22pageId%22%3A%22MrtCiePADvKMJUvnaoBr%22%7D))
+![Visualization](https://app.diagrams.net/#G1-_-DWsfYKuxOGiLLzMCSVf1b1aJXXubs#%7B%22pageId%22%3A%22xYfhpxk_PZ4CGLp8pnmZ%22%7D)
 
 *Ilustrasi visualisasi BST dan Graph yang digunakan dalam proyek ini*
 
