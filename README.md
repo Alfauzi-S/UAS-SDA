@@ -8,10 +8,10 @@
 
 ## 🧑‍🤝‍🧑 Anggota Kelompok
 
-| Nama | NIM | Tugas |
-|------|-----|-------|
-| Muhammad Alfauzi Syahputra | 2509106006 | Soal 1 (Preorder & Inorder), Soal 2, Soal 3 |
-| ANUGERAH FAKHRIZA RESWARA | 2509106025 | Soal 1 (Postorder & Level Order), Soal 2, Soal 3 |
+| Nama | NIM |
+|------|-----|
+| Muhammad Alfauzi Syahputra | 2509106006 |
+| ANUGERAH FAKHRIZA RESWARA | 2509106025 |
 
 ---
 
@@ -54,7 +54,7 @@ Kami mengimplementasikan 4 jenis graph menggunakan linked list:
 
 ## 📊 Visualisasi
 
-![Binary Search Tree Visualization](https://app.diagrams.net/#G1-_-DWsfYKuxOGiLLzMCSVf1b1aJXXubs#%7B%22pageId%22%3A%22MrtCiePADvKMJUvnaoBr%22%7D)
+![Visualization]([https://app.diagrams.net/#G1-_-DWsfYKuxOGiLLzMCSVf1b1aJXXubs#%7B%22pageId%22%3A%22MrtCiePADvKMJUvnaoBr%22%7D](https://app.diagrams.net/#G1-_-DWsfYKuxOGiLLzMCSVf1b1aJXXubs#%7B%22pageId%22%3A%22MrtCiePADvKMJUvnaoBr%22%7D))
 
 *Ilustrasi visualisasi BST dan Graph yang digunakan dalam proyek ini*
 
