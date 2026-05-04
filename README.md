@@ -8,7 +8,7 @@
 
 | Nama | NIM |
 |------|-----|
-| Muhammad Alfauzi Syahputra | 2509106006 |
+| MUHAMMAD ALFAUZI SYAHPUTRA | 2509106006 |
 | ANUGERAH FAKHRIZA RESWARA | 2509106025 |
 
 ---
