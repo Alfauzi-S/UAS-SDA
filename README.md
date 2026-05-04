@@ -2,8 +2,6 @@
 
 ## Proyek Analisis dan Implementasi Struktur Data Tree dan Graph
 
-> "Membangun struktur data yang efisien adalah kunci dari solusi algoritma yang optimal."
-
 ---
 
 ## 🧑‍🤝‍🧑 Anggota Kelompok
@@ -60,23 +58,6 @@ https://app.diagrams.net/#G1-_-DWsfYKuxOGiLLzMCSVf1b1aJXXubs#%7B%22pageId%22%3A%
 
 ---
 
-## 🔑 Keunggulan Implementasi Kami
-
-- **Kode Terstruktur**: Setiap fungsi memiliki tujuan spesifik dan mudah dipahami
-- **Komentar Lengkap**: Kode dilengkapi komentar untuk menjelaskan alur logika
-- **Output yang Jelas**: Hasil penelusuran dan representasi ditampilkan dengan format yang rapi
-- **Fleksibel**: Program dapat dimodifikasi dengan mudah untuk ukuran graph/tree yang berbeda
-- **Komprehensif**: Menutupi semua aspek yang diminta dalam soal
-
----
-
-## 📚 Referensi
-
-- Materi kuliah Struktur Data dan Algoritma
-- Buku "Data Structures and Algorithm Analysis in C++" oleh Mark Allen Weiss
-- Dokumentasi resmi C++ Standard Library
-
----
 
 ## 📣 Catatan Penting
 
@@ -91,4 +72,3 @@ https://app.diagrams.net/#G1-_-DWsfYKuxOGiLLzMCSVf1b1aJXXubs#%7B%22pageId%22%3A%
 
 Terima kasih telah melihat proyek kami. Kami berharap implementasi ini dapat memberikan wawasan yang berguna tentang struktur data tree dan graph.
 
-> "Kode yang baik adalah kode yang mudah dipahami dan dipelihara. Struktur data yang tepat adalah kunci dari algoritma yang efisien." - Muhammad Alfauzi Syahputra & ANUGERAH FAKHRIZA RESWARA
